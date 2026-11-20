@@ -1,0 +1,26 @@
+{
+  "logistic_regression": {
+    "metrics": {
+      "roc_auc": 0.8400113668655869,
+      "f1": 0.6161825726141079
+    },
+    "model_path": "models\\logistic_regression_churn_model.pkl"
+  },
+  "xgboost": {
+    "metrics": {
+      "roc_auc": 0.8427303727815236,
+      "f1": 0.6330275229357798
+    },
+    "best_params": {
+      "n_estimators": 400,
+      "learning_rate": 0.025861996716832848,
+      "max_depth": 2,
+      "min_child_weight": 5.086594935835713,
+      "subsample": 0.7098093314531176,
+      "colsample_bytree": 0.9634607815072965,
+      "reg_alpha": 0.06399508548095752,
+      "reg_lambda": 0.0023729189350083237
+    },
+    "model_path": "models\\xgboost_churn_model.pkl"
+  }
+}
