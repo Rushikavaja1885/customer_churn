@@ -1,10 +1,10 @@
 ## Project Screenshots
 
 ### Customer Churn Prediction Dashboard
-![Dashboard](data/image1.png)
+![CSV upload](data/image1.png)
 
 ### SHAP Feature Contribution Chart
-![SHAP Chart](data/image2.png)
+![Single customer](data/image2.png)
 
 ## 📌 Overview
 
