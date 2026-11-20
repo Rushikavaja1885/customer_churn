@@ -3,7 +3,6 @@
 ### Customer Churn Prediction Dashboard
 ![CSV upload](data/image1.png)
 
-### SHAP Feature Contribution Chart
 ![Single customer](data/image2.png)
 
 ## 📌 Overview
