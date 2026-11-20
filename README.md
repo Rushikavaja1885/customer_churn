@@ -1,14 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Customer%20Churn%20Prediction&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+## Project Screenshots
 
-<div align="center">
+### Customer Churn Prediction Dashboard
+![Dashboard](data/image1.png)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-2196F3?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
+### SHAP Feature Contribution Chart
+![SHAP Chart](data/image2.png)
 
 ## 📌 Overview
 
