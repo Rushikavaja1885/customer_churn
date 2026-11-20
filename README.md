@@ -3,6 +3,7 @@
 ### Customer Churn Prediction Dashboard
 ![CSV upload](data/image1.png)
 
+### Customer Churn Prediction Dashboard
 ![Single customer](data/image2.png)
 
 ## 📌 Overview
